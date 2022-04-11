@@ -1,3 +1,1 @@
----
-title: '#365DaysofDevops 
----
+## Redhat -8 Virtual Machine Setup on VmWare
