@@ -8,12 +8,12 @@
         <h4>PasswordAuthentication yes</h4>
         <h4>Note:-If you want to set up “root” ec2 user password, find  “PermitRootLogin” parameter and change its value from 
         "prohibit-password" to "yes"</h4>
-<h3>Step4:- Setup ec2 user password using the "passwd" command along with the username. 
-        You need to enter the password twice. For example, if you want to set up a password for “ubuntu” user, use the following command.
-        sudo passwd root</h3>
-<h3>Step5: Now, restart the "sshd" service using the following command.
-        sudo service sshd restart
-        sudo systemctl restart sshd </h3>
-<h3>step6:- Step 6: Now you can log out and log in using the password you set for the user. For example,
-        ssh root@35.162.225.240</h3>
+<h3>Step4:- Setup ec2 user password using the "passwd" command along with the username.<h3>
+        <h4>You need to enter the password twice. For example, if you want to set up a password for “ubuntu” user, use the following command.<h4>
+        <h4>sudo passwd root</h4>
+<h3>Step5: Now, restart the "sshd" service using the following command.<h3>
+        <h4>sudo service sshd restart<h4>
+        <h4>sudo systemctl restart sshd </h4>
+<h3>step6:- Step 6: Now you can log out and log in using the password you set for the user. For example,<h3>
+        <h4>ssh root@35.162.225.240</h4>
 </p>
