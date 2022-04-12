@@ -6,6 +6,11 @@
         path:- sudo vi /etc/ssh/sshd_config
 ![ssh location](https://github.com/imneeteeshyadav98/365DaysDevopsChallenge/blob/main/Images/Day02/1.png)
 ![ssh location](https://github.com/imneeteeshyadav98/365DaysDevopsChallenge/blob/main/Images/Day02/2.png)
+![ssh location](https://github.com/imneeteeshyadav98/365DaysDevopsChallenge/blob/main/Images/Day02/3.png)
+![ssh location](https://github.com/imneeteeshyadav98/365DaysDevopsChallenge/blob/main/Images/Day02/4.png)
+![ssh location](https://github.com/imneeteeshyadav98/365DaysDevopsChallenge/blob/main/Images/Day02/5.png)
+![ssh location](https://github.com/imneeteeshyadav98/365DaysDevopsChallenge/blob/main/Images/Day02/6.png)
+![ssh location](https://github.com/imneeteeshyadav98/365DaysDevopsChallenge/blob/main/Images/Day02/7.png)
 #### step3:- Find the line containing “PasswordAuthentication” parameter and change its value from “no” to "yes"
         PasswordAuthentication yes
 ##### Note:-If you want to set up “root” ec2 user password, find  “PermitRootLogin” parameter and change its value from 
