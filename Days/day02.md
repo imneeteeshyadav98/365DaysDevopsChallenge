@@ -1,7 +1,7 @@
 ## Password based authentication  on AWS EC2 Machine
 <h3>Problem:- How to create Password based Ec2 machine?.</h3>
 <p>Fallow Some basic steps to solve this use case........
-step1:- Login with ec2 machine webbased or ssh based
+<h3>step1:- Login with ec2 machine webbased or ssh based</h3>
 step2:- Open sshd_config file
         path:- sudo vi /etc/ssh/sshd_config
 step3:- Find the line containing “PasswordAuthentication” parameter and change its value from “no” to “yes“
