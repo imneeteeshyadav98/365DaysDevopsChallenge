@@ -6,10 +6,10 @@
         path:- sudo vi /etc/ssh/sshd_config
 #### step3:- Find the line containing “PasswordAuthentication” parameter and change its value from “no” to "yes"
         PasswordAuthentication yes
-        Note:-If you want to set up “root” ec2 user password, find  “PermitRootLogin” parameter and change its value from 
+##### Note:-If you want to set up “root” ec2 user password, find  “PermitRootLogin” parameter and change its value from 
         "prohibit-password" to "yes"
 ##### Step4:- Setup ec2 user password using the "passwd" command along with the username.
-        You need to enter the password twice. For example, if you want to set up a password for “ubuntu” user, use the following command.
+##### You need to enter the password twice. For example, if you want to set up a password for “ubuntu” user, use the following command.
         sudo passwd root.
 ##### Step5: Now, restart the "sshd" service using the following command.
        sudo service sshd restart
