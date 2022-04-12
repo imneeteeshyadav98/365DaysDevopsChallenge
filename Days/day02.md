@@ -4,6 +4,7 @@
 #### step1:- Login with ec2 machine webbased or ssh based
 #### step2:- Open sshd_config file.
         path:- sudo vi /etc/ssh/sshd_config
+![ssh location](Images/Day02/1.png)
 #### step3:- Find the line containing “PasswordAuthentication” parameter and change its value from “no” to "yes"
         PasswordAuthentication yes
 ##### Note:-If you want to set up “root” ec2 user password, find  “PermitRootLogin” parameter and change its value from 
