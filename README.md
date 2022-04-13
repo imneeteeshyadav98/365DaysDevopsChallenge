@@ -8,7 +8,11 @@
 
 ### Understanding Networking
 ### Learning Cloud concepts
-### AZURE CLOUDS
 ### AWS CLOUDS
 [✔️] ♾️ 2 > [AWS EC2 Virtualmachine password based authentication](Days/day02.md)
 ### GIT
+### JENKINS
+### DOCKER
+### KUBERNETES
+### ANSIBLE
+### TERRAFORM
