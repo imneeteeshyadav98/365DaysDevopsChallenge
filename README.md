@@ -5,9 +5,10 @@
 
 ### Learning Linux fundamental and advanced concepts
 ### REDHAT-8
-[✔️] ♾️ 2 > [AWS EC2 Virtualmachine password based authentication](Days/day02.md)
+
 ### Understanding Networking
 ### Learning Cloud concepts
 ### AZURE CLOUDS
 ### AWS CLOUDS
+[✔️] ♾️ 2 > [AWS EC2 Virtualmachine password based authentication](Days/day02.md)
 ### GIT
