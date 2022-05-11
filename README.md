@@ -12,6 +12,7 @@
 [✔️] ♾️ 2 > [AWS EC2 Virtualmachine password based authentication](Days/day02.md)
 ### GIT
 ### DOCKER
+[✔️] ♾️ 2 > [Creating Docker container without root user](Days/day04.md)
 ### JENKINS
 ### KUBERNETES
 ### ANSIBLE
